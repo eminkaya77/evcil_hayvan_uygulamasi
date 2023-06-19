@@ -1,0 +1,3 @@
+kedi,duman,60,100
+kopek,coni,65,70
+kedi,minnos,80,70
